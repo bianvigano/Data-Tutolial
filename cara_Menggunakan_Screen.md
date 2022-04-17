@@ -9,15 +9,18 @@ Pertama-tama buatlah koneksi SSH ke server / VPS anda. Pastikan server anda tela
 
 Apabila belum terinstall, anda dapat menginstall screen dengan cara sebagai berikut :
 
+
 Untuk Ubuntu:
 ```
 apt-get install screen
 ```
 
+
 Untuk CentOS:
 ```
 yum install screen
 ```
+
 
 Untuk memulai screen, anda dapat menjalankan perintah (Untuk CentOS dan Ubuntu):
 | Keterangan | Command | Tombol |
