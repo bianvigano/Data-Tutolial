@@ -21,7 +21,7 @@ Untuk CentOS:
 yum install screen
 ```
 
-
+# Tutorial
 ### Untuk memulai screen, anda dapat menjalankan perintah (Untuk CentOS dan Ubuntu):
 | Keterangan | Command | Tombol |
 | ------ | ------ | ------ |
@@ -34,4 +34,4 @@ yum install screen
 |CTRL + a + n|Untuk melihat jendela screen selanjutnya.
 |CTRL + a + p|Untuk melihat jendela screen sebelumnya.
 |CTRL + a + c|Untuk membuat jendela screen baru.
-### Tutorial
+
