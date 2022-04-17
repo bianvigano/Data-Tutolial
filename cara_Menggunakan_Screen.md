@@ -1,4 +1,4 @@
-##About / Tentang
+#About / Tentang
 Pernah mengalami ketika kita instal cPanel di Centos, 
 lalu koneksi terputus dan terpaksa harus mengulang dari awal? atau mungkin secara tidak sengaja Anda menutup jendela / window SSH ?
 
