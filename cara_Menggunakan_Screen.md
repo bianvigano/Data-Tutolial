@@ -13,8 +13,8 @@ screen
 ```
 
 
-Apabila belum terinstall, anda dapat menginstall screen dengan cara sebagai berikut :
-
+### Apabila belum terinstall 
+anda dapat menginstall screen dengan cara sebagai berikut :
 
 Untuk Ubuntu:
 ```
