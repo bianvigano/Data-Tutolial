@@ -36,6 +36,7 @@ yum install screen
 ### Beberapa perintah lain di screen:
 | Tombol | Keterangan |
 | ------ | ------ |
+|CTRL + a + d|Untuk keluar dari screen.
 |CTRL + a + n|Untuk melihat jendela screen selanjutnya.
 |CTRL + a + p|Untuk melihat jendela screen sebelumnya.
 |CTRL + a + c|Untuk membuat jendela screen baru.
