@@ -37,7 +37,9 @@ yum install screen
 | Tombol | Keterangan |
 | ------ | ------ |
 |CTRL + a + d|Untuk keluar dari screen.
+|CTRL + a + c|Untuk membuat jendela screen baru.
 |CTRL + a + n|Untuk melihat jendela screen selanjutnya.
 |CTRL + a + p|Untuk melihat jendela screen sebelumnya.
-|CTRL + a + c|Untuk membuat jendela screen baru.
+|CTRL + a + w|Ini menampilkan daftar semua jendela yang sedang dibuka.
+|CTRL + a + A|Ini mengubah nama jendela saat ini. Nama tersebut akan muncul ketika Anda akan mencantumkan daftar jendela yang dibuka dengan Ctrl-a + w.
 
