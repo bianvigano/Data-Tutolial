@@ -2,6 +2,12 @@
 
 ## Ubuntu 
 
-#Nodejs
+-Nodejs
+```sudo apt-get install nodejs```
 
-#Npm
+Jika sudah di install Coba di cek
+```node -v```
+
+
+
+-Npm
