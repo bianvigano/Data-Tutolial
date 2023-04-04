@@ -1,4 +1,4 @@
-A: apa kelebihan dan kekurangan dari database json
+A: apa kelebihan dan kekurangan dari database json<br />
 B: Dari https://chat.openai.com/ 
 ~ JSON (JavaScript Object Notation) adalah format pertukaran data yang mudah dibaca oleh manusia dan juga mudah diinterpretasikan oleh komputer. JSON digunakan sebagai format untuk pertukaran data antar aplikasi web, dan sering digunakan sebagai alternatif untuk XML. Berikut adalah beberapa kelebihan dan kekurangan dari menggunakan database JSON:
 
