@@ -30,6 +30,7 @@ yum install screen
 ### Untuk memulai screen, anda dapat menjalankan perintah (Untuk CentOS dan Ubuntu):
 | Keterangan | Command | Tombol |
 | ------ | ------ | ------ |
+|Cara untuk membuka screen yang sudah jika sudah di bikin.|screen -r namascreen/code|Untuk keluar dari screen , tekan tombol “CTRL+a” kemudian tombol “d”.|
 |Apabila anda ingin memberikan nama dari screen yang anda buat, gunakan perintah|screen -R namascreen|Untuk keluar dari screen , tekan tombol “CTRL+a” kemudian tombol “d”.|
 |Untuk melihat screen yang aktif|**_screen -list_** Atau _**screen -ls**_|Untuk kembali ke screen yang telah dibuat (ingat -r berbeda dengan -R):
 
