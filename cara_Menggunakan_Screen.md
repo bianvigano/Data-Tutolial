@@ -100,7 +100,7 @@ Dengan menggunakan **screen**, Anda bisa menjalankan proses di latar belakang da
 
 ---
 
-### Untuk yang lebih banyak dari `screen`, anda dapat menjalankan perintah:
+## Untuk yang lebih banyak dari `screen`, anda dapat menjalankan perintah:
 | **Keterangan**                          | **Command**                      | **Tombol**            |  
 |-----------------------------------------|----------------------------------|-----------------------|  
 | **Membuat sesi baru tanpa nama**       | `screen`                         | -                     |  
@@ -123,7 +123,7 @@ Dengan menggunakan **screen**, Anda bisa menjalankan proses di latar belakang da
 
 ---
 
-### Berikut adalah beberapa perintah lain di `screen` beserta tombol pintasnya:  
+## Berikut adalah beberapa perintah lain di `screen` beserta tombol pintasnya:  
 | **Tombol**        | **Keterangan**                                      |  
 |-------------------|------------------------------------------------------|  
 | `Ctrl + A, C`    | Membuat jendela baru dalam sesi `screen`              |  
@@ -140,14 +140,14 @@ Dengan menggunakan **screen**, Anda bisa menjalankan proses di latar belakang da
 
 ---
 
-### 📌 **Perintah untuk Multiuser (Sharing Session)**
+## 📌 **Perintah untuk Multiuser (Sharing Session)**
 | **Keterangan**                            | **Command**                      |  
 |-------------------------------------------|----------------------------------|  
 | **Mengaktifkan mode multiuser**           | `screen -S namasession -X multiuser on`  |  
 | **Menambahkan user agar bisa join sesi**  | `screen -S namasession -X addacl username` |  
 | **User lain masuk ke sesi yang dibagikan** | `screen -x namasession` |  
 | **Menghapus user dari sesi**              | `screen -S namasession -X acldel username` | 
-
+---
 ### **Apa Itu "Perintah untuk Multiuser (Sharing Session)" di `screen`?**  
 
 **Multiuser (Sharing Session)** dalam `screen` adalah fitur yang memungkinkan **lebih dari satu pengguna** untuk melihat dan berinteraksi dalam satu sesi terminal yang sama. Ini berguna untuk:  
